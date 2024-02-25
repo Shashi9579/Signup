@@ -1,0 +1,49 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+.sign-up-form {
+    margin: 50px auto;
+    padding: 20px;
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: left;
+}
+.input-box {
+    margin: 10px 0;
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+}
+.input-container {
+    text-align: left;
+    margin-bottom: 10px;
+}
+.input-container label {
+    display: block;
+}
+.password-container {
+    position: relative;
+    text-align: right;
+}
+
+
+.signin-btn {
+    background-color: rgb(97, 97, 240);
+    margin: 10px auto;
+    padding: 10px;
+    width: 300px;
+}
+.google-btn
+{
+    margin: 10px 0;
+    padding: 10px 20px;
+    width: 300px;
+}
+.or {
+    background: #fff;
+    width: 30px;
+    margin: -19px auto 10px;
+}
